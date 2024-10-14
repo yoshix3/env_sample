@@ -1,2 +1,2 @@
 # env_sample
-Environments no
+Environments の確認用
